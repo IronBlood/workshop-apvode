@@ -1,4 +1,4 @@
-import{C as d}from"./fd-BqDsHJLD.js";import{c as m}from"./index-BO1U6PcM.js";import{d as h,G as u,g,o as l,a as r,b as e,N as p,Q as f,e as n,u as a,L as i,K as o,R as b}from"./vendor-CuhU66Da.js";const y="/workshop-bfocm/assets/BFoCM-java-bytecode-DB21QsSY.svg",_=`// event_loop.js
+import{C as d}from"./fd-BqDsHJLD.js";import{c as m}from"./index-hsG4DW0V.js";import{d as h,G as u,g,o as l,a as r,b as e,N as p,Q as f,e as n,u as a,L as i,K as o,R as b}from"./vendor-70biTZpe.js";const y="/workshop-bfocm/assets/BFoCM-java-bytecode-DB21QsSY.svg",_=`// event_loop.js
 const first  = () => console.log("first");
 const second = () => console.log("second (timeout)");
 const third  = () => console.log("third (while loop)");

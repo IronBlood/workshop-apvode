@@ -1,4 +1,4 @@
-import{c as d,_ as r}from"./index-BO1U6PcM.js";import{C as i}from"./fd-BqDsHJLD.js";import{C as c}from"./main-D5lLZQFH.js";import{d as u,G as h,g,o as _,a as f,b as e,e as s,u as n,i as p,j as m,K as l}from"./vendor-CuhU66Da.js";const T=`#include <stdio.h>
+import{c as d,_ as r}from"./index-hsG4DW0V.js";import{C as i}from"./fd-BqDsHJLD.js";import{C as c}from"./main-D5lLZQFH.js";import{d as u,G as h,g,o as _,a as f,b as e,e as s,u as n,i as p,j as m,K as l}from"./vendor-70biTZpe.js";const T=`#include <stdio.h>
 
 int main() {
 	fprintf(stdout, "hello world\\n");

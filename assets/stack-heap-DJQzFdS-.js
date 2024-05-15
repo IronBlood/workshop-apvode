@@ -1,4 +1,4 @@
-import{c as d,_ as c}from"./index-BO1U6PcM.js";import{d as i,G as f,g as r,o as l,a as h,b as t,e,u as n,L as u,i as _,j as p}from"./vendor-CuhU66Da.js";const v="/workshop-bfocm/assets/premium_photo-1679255807252-3c568399dfc2-DQyoh-xX.avif",m="/workshop-bfocm/assets/Tower_of_Hanoi-CluCuWxr.jpeg",x="/workshop-bfocm/assets/BFoCM-memory-hierarchy-De5H_NOY.png",g=`#include <stdio.h>  // printf
+import{c as d,_ as c}from"./index-hsG4DW0V.js";import{d as i,G as f,g as r,o as l,a as h,b as t,e,u as n,L as u,i as _,j as p}from"./vendor-70biTZpe.js";const v="/workshop-bfocm/assets/premium_photo-1679255807252-3c568399dfc2-DQyoh-xX.avif",m="/workshop-bfocm/assets/Tower_of_Hanoi-CluCuWxr.jpeg",x="/workshop-bfocm/assets/BFoCM-memory-hierarchy-De5H_NOY.png",g=`#include <stdio.h>  // printf
 #include <stdlib.h> // malloc and free
 
 int main() {
